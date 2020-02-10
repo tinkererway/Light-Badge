@@ -1,7 +1,7 @@
 # Light-Badge
 The Light Badge is an electronic kit which  utilizes an LDR to detect lowering light levels and light a LED once it gets dark. 
 
-Project Details:
+Project Details:https://tinkererway.com/2020/02/10/the-light-badge/
 
 Design Files: This project is designed using Open Source KiCad .Design files are located [here](https://github.com/tinkererway/Light-Badge/tree/master/Design%20Files)
 
