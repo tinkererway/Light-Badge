@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name batteryholder)(type KiCad)(uri "$(KIPRJMOD)/batteryholder.pretty")(options "")(descr ""))
+  (lib (name "bc547 ")(type KiCad)(uri "$(KIPRJMOD)/bc547 .pretty")(options "")(descr ""))
+  (lib (name LightBadgeLogos)(type KiCad)(uri "C:/Users/amalm/Desktop/The Light Badge/LightBadgeLogos.pretty")(options "")(descr ""))
+  (lib (name "bc547 orientation change")(type KiCad)(uri "$(KIPRJMOD)/bc547 orientation change.pretty")(options "")(descr ""))
+)
