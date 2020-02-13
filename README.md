@@ -2,8 +2,7 @@
 The Light Badge is an electronic kit which  utilizes an LDR to detect lowering light levels and light a LED once it gets dark. 
 
 This project is Certified with [OSHWA](https://certification.oshwa.org/in000009.html) (OSHWA UID IN000009)
-![OSHW_mark_IN000009](https://user-images.githubusercontent.com/26376366/74411025-64038280-4e60-11ea-8eb2-1f48db5c02b5.png)
-
+![OSHW_mark_IN000009 small](https://user-images.githubusercontent.com/26376366/74411584-99f53680-4e61-11ea-9df9-da6c659ac6e4.png)
 
 Project Details:https://tinkererway.com/2020/02/10/the-light-badge/
 
